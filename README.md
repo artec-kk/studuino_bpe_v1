@@ -1,4 +1,4 @@
-# Studuino ブロックプログラミング環境（Mac/Rapeberry版）V1
+# Studuino ブロックプログラミング環境（Mac/Raspberry版）V1
 [![Scratch Source Code License](http://img.shields.io/badge/license-Scratch Source Code License-green.svg?style=flat)](LICENSE)
 
 ## 本ソフトウェア
